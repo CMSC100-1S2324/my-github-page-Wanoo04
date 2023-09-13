@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    padding: 10px 10px;
 }
 
 .navigation {
@@ -11,6 +12,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 15px;
+    margin: 30px;
 }
 
 .navigation div {
@@ -48,4 +50,85 @@ body {
   
 .navBar a:hover {
     background-color: #394A54;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 22px;
+    color: #A6A6A6;
+    text-align: center;
+    text-shadow: 3px 3px #394A54;
+    padding: 10px;
+    margin: 30px;
+}
+
+.featuredPhoto img {
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    display: block;
+    box-shadow: 10px 10px #394A54;
+}
+
+.previousProjects {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    row-gap: 30px;
+    margin: 30px;
+}
+
+.previousProjects div img {
+    width: 500px;
+    height: 500px;
+    box-shadow: 10px 10px #394A54;
+}
+
+.personalInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    row-gap: 30px;
+}
+
+.skillsA {
+    list-style-type: none;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.skillsB {
+    list-style-type: square;
+    font-family: fantasy;
+    font-size: 18px;
+}
+
+.autobiography {
+    width: 300px;
+    height: 300px
+}
+
+.info {
+    font-family: fantasy;
+    font-size: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.logo img{
+    width: 200px;
+    height: 200px;
+}
+
+.contactInfo {
+    font-family: fantasy;
+    font-size: 14px;
 }
