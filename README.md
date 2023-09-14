@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Z0SN3ALX)
+Full Name: Christian B. Rojano
+Degree Program: BS Computer Science
+Live Website Link: https://cmsc100-1s2324.github.io/my-github-page-Wanoo04/
+GitHub Page Steps: The GitHub page heavily relies on flexbox and already made media elements were added to improve the user experience and aesthetics of the website portfolio.
+Notes: My key takeaway is that it is realy hard to be a frontend developer as not all what we want in the website's UI can easily be constructed or applied:
